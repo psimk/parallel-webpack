@@ -1,2 +1,2 @@
 # parallel-webpack
-Build multi-config webpack projects in parallel 🏃🏃🏃
+Build multi-config webpack projects in parallel 🏃🏃🏃...

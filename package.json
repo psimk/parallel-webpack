@@ -1,0 +1,9 @@
+{
+  "name": "parallel-webpack",
+  "version": "1.0.0",
+  "description": "Build multi-config webpack projects in parallel 🏃🏃🏃...",
+  "main": "index.js",
+  "repository": "git@github.com:psimk/parallel-webpack.git",
+  "author": "Paul <p.simkevi@gmail.com>",
+  "license": "MIT"
+}
