@@ -1,0 +1,13 @@
+{
+  "name": "node-api",
+  "scripts": {
+    "clean": "rm -rf lib",
+    "build": "npm run clean && node build.js",
+    "build:sync": "npm run clean && node build_sync.js"
+  },
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "moment": "^2.29.1",
+    "webpack": "5.11.0"
+  }
+}
