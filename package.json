@@ -1,6 +1,6 @@
 {
   "name": "@psimk/parallel-webpack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Build multi-config webpack projects in parallel 🏃🏃🏃...",
   "repository": "https://github.com/psimk/parallel-webpack",
   "author": "Paul <p.simkevi@gmail.com>",
